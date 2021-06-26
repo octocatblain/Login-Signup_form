@@ -13,4 +13,4 @@ Simple signup and login system with PHP and MySQL database
 - Uses Php version 8.0.7 / 3 June 2021
 
 ## Licenses
-[GNU] (LICENSE)
+[GNU](LICENSE)
